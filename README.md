@@ -8,15 +8,13 @@ You can reach me on:<br/><br/>
 
 ---
 
-<!--
-[![Hawari's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hawariMuflihMunte&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
 
-<!--
+[![Hawari's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hawariMuflihMunte&theme=tokyonight&include_all_commits=true&border_radius=0&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Hawari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawariMuflihMunte&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&border_radius=0&hide_border=true)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawariMuflihMunte&layout=compact&theme=tokyonight&border_radius=0&hide_border=true)]()
--->
+
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!---
