@@ -31,15 +31,12 @@ You can reach me on:<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawariMuflihMunte&layout=compact&theme=tokyonight&border_radius=0&hide_border=true)]()
 
+---
 
+#### Extras
 
-<!-- - 💞️ I’m looking to collaborate on ... -->
-<!---
-hawariMuflihMunte/hawariMuflihMunte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I usually like to list my anime in<br/>
+<a><img src="https://img.shields.io/badge/MyAnimeList-grey?style=for-the-badge&logo=myanimelist"/></a>
 
-<!--
-<img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="Web Dev Gif" />
-<img src="https://tennisalberta.com/wp-content/uploads/2019/09/web-dev-gif.gif" alt="Web Dev Gif #2" />
--->
+I like to play<br/>
+<a><img src="https://img.shields.io/badge/Minecraft-grey?style=for-the-badge&logo=minecraft"/></a>
