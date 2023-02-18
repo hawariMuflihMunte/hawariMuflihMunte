@@ -1,5 +1,8 @@
 # My Profile
 
+<a><img src="https://3.bp.blogspot.com/-C0Vqff9M5kg/VrARw5HUSlI/AAAAAAAAXUE/tPpCuxIeneo/s1600/Omake%2BGif%2BAnime%2B-%2BKoyomimonogatari%2B-%2BEpisode%2B4%2B-%2BSenjougahara%2BYoga.gif" /></a>
+---
+
 ### Hello there, <br/>
 
 👋 Nice to meet you 👋<br/>
@@ -32,11 +35,3 @@ You can reach me on:<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawariMuflihMunte&layout=compact&theme=tokyonight&border_radius=0&hide_border=true)]()
 
 ---
-
-#### Extras
-
-I usually like to list my anime in<br/>
-<a><img src="https://img.shields.io/badge/MyAnimeList-grey?style=for-the-badge&logo=myanimelist"/></a>
-
-I like to play<br/>
-<a><img src="https://img.shields.io/badge/Minecraft-grey?style=for-the-badge&logo=minecraft"/></a>
