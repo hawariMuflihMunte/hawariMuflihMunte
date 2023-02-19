@@ -5,7 +5,7 @@
 
 ### Hello there, <br/>
 
-👋 Nice to meet you 👋<br/>
+Nice to meet you 👋<br/>
 My name is Hawari Muflih Munte, I'm a *Web Developer* and now focusing to learn the JavaScript language.<br/>
 
 You can reach me on:<br/>
@@ -33,5 +33,3 @@ You can reach me on:<br/>
 [![Hawari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawariMuflihMunte&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&border_radius=0&hide_border=true)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawariMuflihMunte&layout=compact&theme=tokyonight&border_radius=0&hide_border=true)]()
-
----
