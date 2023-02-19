@@ -1,4 +1,4 @@
-# My Profile
+# My Profile [![wakatime](https://wakatime.com/badge/user/9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b.svg)](https://wakatime.com/@9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b)
 
 <a><img src="https://3.bp.blogspot.com/-C0Vqff9M5kg/VrARw5HUSlI/AAAAAAAAXUE/tPpCuxIeneo/s1600/Omake%2BGif%2BAnime%2B-%2BKoyomimonogatari%2B-%2BEpisode%2B4%2B-%2BSenjougahara%2BYoga.gif" /></a>
 ---
