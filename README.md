@@ -22,6 +22,7 @@ You can reach me on:<br/>
 <a><img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/></a>
 <a><img src="https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react"/></a>
 <a><img src="https://img.shields.io/badge/UIKit-black?style=for-the-badge&logo=uikit"/></a>
+<a><img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss"/></a>
 <a><img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap"/></a>
 <a><img src="https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs"/></a>
 <a><img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php"/></a>
