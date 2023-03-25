@@ -6,12 +6,7 @@
 ### Hello there, <br/>
 
 Nice to meet you 👋<br/>
-My name is Hawari Muflih Munte, I'm a *Web Developer* and now focusing to learn the JavaScript language.<br/>
-
-You can reach me on:<br/>
-<a><img src="https://img.shields.io/badge/Instagram-procodeline.way-white?logo=instagram&style=social"/></a> <br/>
-<a><img src="https://img.shields.io/badge/Facebook-Granit%20Gotze-white?logo=facebook&style=social"/></a> <br/>
-<!-- <img src="https://img.shields.io/badge/WhatsApp-081265942424-white?logo=whatsapp&style=social" /> <br/> -->
+My name is Hawari Muflih Munte, I'm a *Front-end Web Developer* with JavaScript as my main tech stack.
 
 ---
 
