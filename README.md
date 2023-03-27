@@ -42,18 +42,18 @@ My name is Hawari Muflih Munte, I'm a *Front-end Web Developer* with JavaScript 
 ### Other Preferences
 
 <div>
+  <a><img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/Firefox-black?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/Google%20Drive-black?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/github%20pages-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 <div>
-  <a><img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/google-black?style=for-the-badge&logo=google&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
