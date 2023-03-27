@@ -9,7 +9,16 @@
 Nice to meet you 👋<br/>
 My name is Hawari Muflih Munte, I'm a *Front-end Web Developer* with JavaScript as my main tech stack.
 
+<br/>
+
 <a><img src="https://3.bp.blogspot.com/-C0Vqff9M5kg/VrARw5HUSlI/AAAAAAAAXUE/tPpCuxIeneo/s1600/Omake%2BGif%2BAnime%2B-%2BKoyomimonogatari%2B-%2BEpisode%2B4%2B-%2BSenjougahara%2BYoga.gif" alt="A beautiful girl with purple hair doing yoga" /></a>
+
+<span>
+  <img src="https://user-images.githubusercontent.com/90821837/228054213-a9e119ab-0938-4423-ae39-9e01568028d3.png" width="120" />
+  <img src="https://user-images.githubusercontent.com/90821837/228054507-8fcc659f-d0c5-4a6e-b521-84c7ee2fdc12.png" width="102" />
+  <img src="https://user-images.githubusercontent.com/90821837/228056584-29485db9-db93-4745-9722-a2b19d815988.png" width="116" />
+  <img src="https://user-images.githubusercontent.com/90821837/228059515-3a259bba-0a94-4084-bc4b-055901a6e3d6.png" width="126" />
+</span>
 
 ---
 
@@ -30,6 +39,23 @@ My name is Hawari Muflih Munte, I'm a *Front-end Web Developer* with JavaScript 
   <a><img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql"/></a>
 </div>
 
+### Other Preferences
+
+<div>
+  <a><img src="https://img.shields.io/badge/Firefox-black?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/Google%20Drive-black?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/github%20pages-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+</div>
+<div>
+  <a><img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/google-black?style=for-the-badge&logo=google&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
 ---
 
 ## Activity
@@ -40,4 +66,4 @@ My name is Hawari Muflih Munte, I'm a *Front-end Web Developer* with JavaScript 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawariMuflihMunte&layout=compact&theme=tokyonight&border_radius=0&hide_border=true)]()
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=hawariMuflihMunte)
+<img src="https://readme-jokes.vercel.app/api?hideBorder=true&theme=tokyonight" alt="Jokes Card" />
