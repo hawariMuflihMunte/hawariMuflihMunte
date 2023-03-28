@@ -11,7 +11,7 @@ My name is Hawari Muflih Munte, I'm a *Front-end Web Developer* with JavaScript 
 
 <br/>
 
-<a><img src="https://3.bp.blogspot.com/-C0Vqff9M5kg/VrARw5HUSlI/AAAAAAAAXUE/tPpCuxIeneo/s1600/Omake%2BGif%2BAnime%2B-%2BKoyomimonogatari%2B-%2BEpisode%2B4%2B-%2BSenjougahara%2BYoga.gif" alt="A beautiful girl with purple hair doing yoga" /></a>
+<img src="https://3.bp.blogspot.com/-C0Vqff9M5kg/VrARw5HUSlI/AAAAAAAAXUE/tPpCuxIeneo/s1600/Omake%2BGif%2BAnime%2B-%2BKoyomimonogatari%2B-%2BEpisode%2B4%2B-%2BSenjougahara%2BYoga.gif" alt="A beautiful girl with purple hair doing yoga" />
 
 <span>
   <img src="https://user-images.githubusercontent.com/90821837/228054213-a9e119ab-0938-4423-ae39-9e01568028d3.png" width="120" />
