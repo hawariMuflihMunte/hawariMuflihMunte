@@ -1,4 +1,6 @@
-# My Profile [![wakatime](https://wakatime.com/badge/user/9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b.svg)](https://wakatime.com/@9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b) ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=grey&right_color=blue)
+# My Profile [![wakatime](https://wakatime.com/badge/user/9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b.svg)](https://wakatime.com/@9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b) ![](https://komarev.com/ghpvc/?username=hawariMuflihMunte&style=flat&color=blueviolet)
+
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=grey&right_color=blue) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hawariMuflihMunte&theme=tokyonight&hide_border=true&border_radius=0.25&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
