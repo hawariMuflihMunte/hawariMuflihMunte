@@ -1,26 +1,13 @@
 # My Profile [![wakatime](https://wakatime.com/badge/user/9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b.svg)](https://wakatime.com/@9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b) ![](https://komarev.com/ghpvc/?username=hawariMuflihMunte&style=flat&color=blueviolet)
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=grey&right_color=blue) -->
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=hawariMuflihMunte&theme=tokyonight&hide_border=true&border_radius=0.25&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
-## Hello <br/>
+## Biodata
 
-Nice to meet you 👋<br/>
-My name is Hawari Muflih Munte, I'm a *Front-end Web Developer* with JavaScript as my main tech stack.
-
-<br/>
-
-<img src="https://3.bp.blogspot.com/-C0Vqff9M5kg/VrARw5HUSlI/AAAAAAAAXUE/tPpCuxIeneo/s1600/Omake%2BGif%2BAnime%2B-%2BKoyomimonogatari%2B-%2BEpisode%2B4%2B-%2BSenjougahara%2BYoga.gif" alt="A beautiful girl with purple hair doing yoga" />
-
-<span>
-  <img src="https://user-images.githubusercontent.com/90821837/228054213-a9e119ab-0938-4423-ae39-9e01568028d3.png" width="120" />
-  <img src="https://user-images.githubusercontent.com/90821837/228054507-8fcc659f-d0c5-4a6e-b521-84c7ee2fdc12.png" width="102" />
-  <img src="https://user-images.githubusercontent.com/90821837/228056584-29485db9-db93-4745-9722-a2b19d815988.png" width="116" />
-  <img src="https://user-images.githubusercontent.com/90821837/228059515-3a259bba-0a94-4084-bc4b-055901a6e3d6.png" width="126" />
-</span>
+- Name: Hawari Muflih Munte
+- Hobby: Programming, ProGaming
 
 ---
 
@@ -68,4 +55,17 @@ My name is Hawari Muflih Munte, I'm a *Front-end Web Developer* with JavaScript 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawariMuflihMunte&layout=compact&theme=tokyonight&border_radius=0&hide_border=true)]()
 
+---
+
+## Intermezzo
+
 <img src="https://readme-jokes.vercel.app/api?hideBorder=true&theme=tokyonight" alt="Jokes Card" />
+
+<img src="https://3.bp.blogspot.com/-C0Vqff9M5kg/VrARw5HUSlI/AAAAAAAAXUE/tPpCuxIeneo/s1600/Omake%2BGif%2BAnime%2B-%2BKoyomimonogatari%2B-%2BEpisode%2B4%2B-%2BSenjougahara%2BYoga.gif" alt="A beautiful girl with purple hair doing yoga" />
+
+<span>
+  <img src="https://user-images.githubusercontent.com/90821837/228054213-a9e119ab-0938-4423-ae39-9e01568028d3.png" width="120" />
+  <img src="https://user-images.githubusercontent.com/90821837/228054507-8fcc659f-d0c5-4a6e-b521-84c7ee2fdc12.png" width="102" />
+  <img src="https://user-images.githubusercontent.com/90821837/228056584-29485db9-db93-4745-9722-a2b19d815988.png" width="116" />
+  <img src="https://user-images.githubusercontent.com/90821837/228059515-3a259bba-0a94-4084-bc4b-055901a6e3d6.png" width="126" />
+</span>
