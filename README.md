@@ -7,7 +7,7 @@
 ## Biodata
 
 - Name: Hawari Muflih Munte
-- Hobby: Programming, ProGaming
+- Hobby: Programming, Gaming
 
 ---
 
