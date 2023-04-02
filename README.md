@@ -4,25 +4,23 @@
 
 <br>
 
-## Tech Stack
+| [![GitHub Streak](https://streak-stats.demolab.com?user=hawariMuflihMunte&theme=tokyonight&hide_border=true&border_radius=0.25&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawariMuflihMunte&layout=compact&theme=tokyonight&border_radius=0&hide_border=true&hide_progress=true)]() |
+|---|---|
+| [![Hawari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawariMuflihMunte&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&border_radius=0&hide_border=true)]() | ![Random jokes card](https://readme-jokes.vercel.app/api?hideBorder=true&theme=tokyonight) |
 
-| ![HTML5](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5) | ![CSS3](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3) | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) | ![React](https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react) | ![UIKit](https://img.shields.io/badge/UIKit-black?style=for-the-badge&logo=uikit) |
-|---|---|---|---|---|
-| ![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap) | ![Node.js](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs) | ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php) | ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql) |
+<br>
 
-### &#62; Other Preferences
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&borderRadius=0&showBorder=false&lineHeight=14&lineCount=5&theme=tokyonight&gap=12&line1=html5,html5,D84924;&line2=css3,CSS3,2C41CD;bootstrap,Bootstrap,7952B3;tailwindcss,tailwindcss,06B6D4;uikit,uikit,2396F3;&line3=javascript,javascript,F7DF1E;node.js,node.js,339933;&line4=php,php,777BB4;&line5=mysql,MySQL,4479A1;postgresql,postgresql,4169E1;)](https://github-readme-tech-stack.vercel.app/api/cards?align=center&borderRadius=0&showBorder=false&lineHeight=14&lineCount=5&theme=tokyonight&gap=12&line1=html5,html5,D84924;&line2=css3,CSS3,2C41CD;bootstrap,Bootstrap,7952B3;tailwindcss,tailwindcss,06B6D4;uikit,uikit,2396F3;&line3=javascript,javascript,F7DF1E;node.js,node.js,339933;&line4=php,php,777BB4;&line5=mysql,MySQL,4479A1;postgresql,postgresql,4169E1;)
+
+
+
+### Other Preferences
 
 | ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white) | ![Firefox](https://img.shields.io/badge/Firefox-black?style=for-the-badge&logo=Firefox-Browser&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |  ![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white) | ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) |
 |---|---|---|---|---|
 | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Google](https://img.shields.io/badge/google-black?style=for-the-badge&logo=google&logoColor=white) | ![Google Drive](https://img.shields.io/badge/Google%20Drive-black?style=for-the-badge&logo=googledrive&logoColor=white) |  |  |
 
 <br>
-
-## Activity
-
-|  [![Hawari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawariMuflihMunte&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&border_radius=0&hide_border=true)]() | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawariMuflihMunte&layout=compact&theme=tokyonight&border_radius=0&hide_border=true&hide_progress=true)]() |
-|---|---|
-| [![GitHub Streak](https://streak-stats.demolab.com?user=hawariMuflihMunte&theme=tokyonight&hide_border=true&border_radius=0.25&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) | ![Random jokes card](https://readme-jokes.vercel.app/api?hideBorder=true&theme=tokyonight) |
 
 [![Hawari's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hawariMuflihMunte&theme=tokyonight&include_all_commits=true&border_radius=0&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
