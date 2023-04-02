@@ -1,7 +1,6 @@
 ![e1d8e1efd2a1b4be24a78a86efbb0436-removebg-preview](https://user-images.githubusercontent.com/90821837/229338910-a5b61b00-06a4-4e15-b1ec-cf7cb52c5671.png)
 
-![fcb4af3c28a7688d139497a8369925da-removebg-preview](https://user-images.githubusercontent.com/90821837/229339089-4bab21e7-fb28-44e5-8dfb-6c2ffe4a890a.png)
-
+![0b1a0a3a4bf3a689110605b47070896c-removebg-preview](https://user-images.githubusercontent.com/90821837/229353936-dad1ac3d-7b4b-4129-92c7-d4d476cd6f6a.png)
 
 [![wakatime](https://wakatime.com/badge/user/9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b.svg)](https://wakatime.com/@9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b) ![](https://komarev.com/ghpvc/?username=hawariMuflihMunte&style=flat&color=blueviolet)
 
