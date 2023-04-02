@@ -5,44 +5,21 @@
 
 [![wakatime](https://wakatime.com/badge/user/9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b.svg)](https://wakatime.com/@9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b) ![](https://komarev.com/ghpvc/?username=hawariMuflihMunte&style=flat&color=blueviolet)
 
-
----
+<br>
 
 ## Tech Stack
 
-<div>
-  <a><img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5"/></a>
-  <a><img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3"/></a>
-  <a><img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/></a>
-  <a><img src="https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react"/></a>
-  <a><img src="https://img.shields.io/badge/UIKit-black?style=for-the-badge&logo=uikit"/></a>
-  <a><img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss"/></a>
-</div>
-<div>
-  <a><img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap"/></a>
-  <a><img src="https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs"/></a>
-  <a><img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php"/></a>
-  <a><img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql"/></a>
-</div>
+| ![HTML5](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5) | ![CSS3](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3) | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) | ![React](https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react) | ![UIKit](https://img.shields.io/badge/UIKit-black?style=for-the-badge&logo=uikit) |
+|---|---|---|---|---|
+| ![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap) | ![Node.js](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs) | ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php) | ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql) |
 
-### Other Preferences
+### &#62; Other Preferences
 
-<div>
-  <a><img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/Firefox-black?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/Google%20Drive-black?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/github%20pages-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-<div>
-  <a><img src="https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/google-black?style=for-the-badge&logo=google&logoColor=white" /></a>
-</div>
+| ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white) | ![Firefox](https://img.shields.io/badge/Firefox-black?style=for-the-badge&logo=Firefox-Browser&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |  ![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white) | ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) |
+|---|---|---|---|---|
+| ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Google](https://img.shields.io/badge/google-black?style=for-the-badge&logo=google&logoColor=white) | ![Google Drive](https://img.shields.io/badge/Google%20Drive-black?style=for-the-badge&logo=googledrive&logoColor=white) |  |  |
 
----
+<br>
 
 ## Activity
 
