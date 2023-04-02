@@ -10,9 +10,9 @@
 
 <br>
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&borderRadius=0&showBorder=false&lineHeight=14&lineCount=5&theme=tokyonight&gap=12&line1=html5,html5,D84924;&line2=css3,CSS3,2C41CD;bootstrap,Bootstrap,7952B3;tailwindcss,tailwindcss,06B6D4;uikit,uikit,2396F3;&line3=javascript,javascript,F7DF1E;node.js,node.js,339933;&line4=php,php,777BB4;&line5=mysql,MySQL,4479A1;postgresql,postgresql,4169E1;)](https://github-readme-tech-stack.vercel.app/api/cards?align=center&borderRadius=0&showBorder=false&lineHeight=14&lineCount=5&theme=tokyonight&gap=12&line1=html5,html5,D84924;&line2=css3,CSS3,2C41CD;bootstrap,Bootstrap,7952B3;tailwindcss,tailwindcss,06B6D4;uikit,uikit,2396F3;&line3=javascript,javascript,F7DF1E;node.js,node.js,339933;&line4=php,php,777BB4;&line5=mysql,MySQL,4479A1;postgresql,postgresql,4169E1;)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&borderRadius=0&fontFamily=Ubuntu&fontSize=20&showBorder=false&lineHeight=14&lineCount=5&theme=tokyonight&gap=12&line1=html5,html5,D84924;&line2=css3,CSS3,2C41CD;bootstrap,Bootstrap,7952B3;tailwindcss,tailwindcss,06B6D4;uikit,uikit,2396F3;&line3=javascript,javascript,F7DF1E;node.js,node.js,339933;&line4=php,php,777BB4;&line5=mysql,MySQL,4479A1;postgresql,postgresql,4169E1;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&borderRadius=0&fontFamily=Ubuntu&fontSize=20&showBorder=false&lineHeight=14&lineCount=5&theme=tokyonight&gap=12&line1=html5,html5,D84924;&line2=css3,CSS3,2C41CD;bootstrap,Bootstrap,7952B3;tailwindcss,tailwindcss,06B6D4;uikit,uikit,2396F3;&line3=javascript,javascript,F7DF1E;node.js,node.js,339933;&line4=php,php,777BB4;&line5=mysql,MySQL,4479A1;postgresql,postgresql,4169E1;)
 
-
+<br>
 
 ### Other Preferences
 
