@@ -4,6 +4,8 @@
 
 <br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&width=435&lines=Hello+there+%F0%9F%91%8B;my+name+is+Hawari+Muflih+Munte;nice+to+meet+you+%F0%9F%98%8A)](https://git.io/typing-svg)
+
 <details>
  <summary>My GitHub Stats 📓</summary>
 
