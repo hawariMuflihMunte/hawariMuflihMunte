@@ -39,6 +39,8 @@
 
 <br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=BB71BE&width=620&lines=console.log('Thanks+for+visiting+my+profile');--------------------------------+%3Av;Thanks+for+visiting+my+profile;%3E_)](https://git.io/typing-svg)
+
 <!-- 
 <details>
  <summary></summary>
