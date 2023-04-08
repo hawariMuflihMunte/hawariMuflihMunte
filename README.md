@@ -10,6 +10,8 @@
 
 ![GitHub Trphy](https://github-profile-trophy.vercel.app/?username=hawariMuflihMunte&column=-1&theme=tokyonight&margin-w=30&margin-h=24&no-frame=true)
 
+<br>
+
 <details>
  <summary>My GitHub Stats 📓</summary>
 
