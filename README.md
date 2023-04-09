@@ -8,7 +8,7 @@
 
 <br>
 
-![GitHub Trphy](https://github-profile-trophy.vercel.app/?username=hawariMuflihMunte&column=-1&theme=tokyonight&margin-w=30&margin-h=24&no-frame=true)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=hawariMuflihMunte&row=2&column=3&theme=tokyonight&margin-w=30&margin-h=24&no-frame=true)
 
 <br>
 
