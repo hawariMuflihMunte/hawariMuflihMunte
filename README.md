@@ -35,6 +35,20 @@
 </details>
 
 <details>
+ <summary>Personal 📑</summary>
+ 
+ <br>
+ 
+<details>
+ <summary>Hobbies ☑️</summary>
+ 
+ - Coding
+ - Reading
+ - Minecraft
+ 
+</details>
+
+<details>
  <summary>Reveal Waifu 💗</summary>
 
  <h4>Senjougahara Hitagi</h4>
@@ -42,10 +56,12 @@
  <img src="https://3.bp.blogspot.com/-C0Vqff9M5kg/VrARw5HUSlI/AAAAAAAAXUE/tPpCuxIeneo/s1600/Omake%2BGif%2BAnime%2B-%2BKoyomimonogatari%2B-%2BEpisode%2B4%2B-%2BSenjougahara%2BYoga.gif" alt="A beautiful girl with purple hair doing yoga" loading="lazy" />
 
 </details>
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=BB71BE&width=620&lines=console.log('Thanks+for+visiting+my+profile');--------------------------------+%3Av;Thanks+for+visiting+my+profile;%3E_)](https://git.io/typing-svg)
+ 
+</details>
 
 <br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=BB71BE&width=620&lines=console.log('Thanks+for+visiting+my+profile');--------------------------------+%3Av;Thanks+for+visiting+my+profile;%3E_)](https://git.io/typing-svg)
 
 <!-- 
 <details>
