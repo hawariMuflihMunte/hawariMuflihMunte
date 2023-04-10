@@ -36,9 +36,9 @@
 
 <details>
  <summary>Personal 📑</summary>
- 
- <br>
- 
+
+ <hr>
+
 <details>
  <summary>Hobbies ☑️</summary>
  
