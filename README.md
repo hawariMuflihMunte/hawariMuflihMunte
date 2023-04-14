@@ -1,6 +1,6 @@
 ![e1d8e1efd2a1b4be24a78a86efbb0436-removebg-preview(1)](https://user-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593eec9476c9.png)
 
-[![wakatime](https://wakatime.com/badge/user/9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b.svg)](https://wakatime.com/@9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b) ![](https://komarev.com/ghpvc/?username=hawariMuflihMunte&style=flat&color=blueviolet)
+[![wakatime](https://wakatime.com/badge/user/9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b.svg)](https://wakatime.com/@9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b) ![](https://komarev.com/ghpvc/?username=hawariMuflihMunte&style=flat&color=blueviolet) [![Status for @hawariMuflihMunte](https://badge.stateful.com/hawariMuflihMunte/status.svg)](https://app.stateful.com/@hawariMuflihMunte) [![Status for @hawariMuflihMunte](https://badge.stateful.com/hawariMuflihMunte/dnd.svg)](https://app.stateful.com/@hawariMuflihMunte)
 
 <br>
 
