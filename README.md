@@ -2,7 +2,12 @@
 
 [![wakatime](https://wakatime.com/badge/user/9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b.svg)](https://wakatime.com/@9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b) ![](https://komarev.com/ghpvc/?username=hawariMuflihMunte&style=flat&color=blueviolet)
 
-[![Status for @hawariMuflihMunte](https://badge.stateful.com/hawariMuflihMunte/status.svg)](https://app.stateful.com/@hawariMuflihMunte) [![Status for @hawariMuflihMunte](https://badge.stateful.com/hawariMuflihMunte/dnd.svg)](https://app.stateful.com/@hawariMuflihMunte)
+<br>
+
+| Current Status  |
+|:-:|
+| [![Status for @hawariMuflihMunte](https://badge.stateful.com/hawariMuflihMunte/status.svg)](https://app.stateful.com/@hawariMuflihMunte)  |
+| [![Status for @hawariMuflihMunte](https://badge.stateful.com/hawariMuflihMunte/dnd.svg)](https://app.stateful.com/@hawariMuflihMunte) |
 
 <br>
 
