@@ -28,7 +28,7 @@
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=hawariMuflihMunte&theme=tokyonight&hide_border=true&border_radius=0.25&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawariMuflihMunte&layout=compact&theme=tokyonight&border_radius=0&hide_border=true&hide_progress=true&langs_count=12)]()
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawariMuflihMunte&layout=compact&theme=tokyonight&border_radius=0&hide_border=true&hide_progress=true&langs_count=25)]()
 
  <details>
   <summary>Additional Stats ➕</summary>
