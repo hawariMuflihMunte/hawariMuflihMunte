@@ -51,7 +51,9 @@
  
  - Coding
  - Reading
- - Minecraft
+ 
+ I usually play this game\
+ <img src="https://user-images.githubusercontent.com/90821837/236463107-8ab369e2-902f-4a9d-a79b-62c9cedb2f4d.png" alt="Brawl Stars image" width="50" height="50" />
  
 </details>
 
