@@ -20,7 +20,7 @@
 <br>
 
 <details>
- <summary>My GitHub Stats 📓</summary>
+ <summary>📓 Stats</summary>
 
  <br>
  
@@ -31,7 +31,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawariMuflihMunte&layout=compact&theme=tokyonight&border_radius=0&hide_border=true&hide_progress=true&langs_count=25)]()
 
  <details>
-  <summary>Additional Stats ➕</summary>
+  <summary>➕ Additional</summary>
 
   <br>
 
@@ -39,10 +39,20 @@
 
  </details>
  
+ <details>
+  <summary>⌨ Typing</summary>
+  
+  <p>
+   Currently, I'm working out on my typing speed and this is the result I got:
+   
+   <a href="https://www.keybr.com/profile/n28i89i" target="_blank">Keybr</a>
+  </p>
+ </details>
+ 
 </details>
 
 <details>
- <summary>Personal 📑</summary>
+ <summary>📑 Personal</summary>
 
  <hr>
 
