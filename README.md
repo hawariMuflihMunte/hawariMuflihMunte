@@ -2,6 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b.svg)](https://wakatime.com/@9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b) ![](https://komarev.com/ghpvc/?username=hawariMuflihMunte&style=flat&color=blueviolet) [![committers.top badge](https://user-badge.committers.top/indonesia/hawariMuflihMunte.svg)](https://user-badge.committers.top/indonesia/hawariMuflihMunte)\
 \
+![Codewars user hawariMuflihMunte](https://www.codewars.com/users/hawariMuflihMunte/badges/large)\
 [![LeetCode user hawari_muflih](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fhawari_muflih&logo=leetcode&logoColor=yellow)](https://leetcode.com/hawari_muflih/)
 
 <br>
