@@ -26,7 +26,7 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
 <br>
 
 <details>
- <summary>📓 Stats</summary>
+ <summary>📓 STATS</summary>
 
  <br>
  
@@ -44,11 +44,28 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
   [![Hawari's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hawariMuflihMunte&theme=tokyonight&include_all_commits=true&border_radius=0&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
  </details>
+
+</details>
+
+<details>
+ <summary>👨🏼‍💻 CODES_LOGIC_TRAINING</summary>
+
+ <ul>
+  <li>
+   <a href="https://tlx.toki.id/profiles/hawari_muflih">TLX</a>
+  </li>
+  <li>
+   <a href="https://www.codewars.com/users/hawariMuflihMunte">Codewars</a>
+  </li>
+  <li>
+   <a href="https://codeforces.com/profile/hawari_muflih">Codeforces</a>
+  </li>
+ </ul>
  
 </details>
 
 <details>
- <summary>👀 Etc</summary>
+ <summary>👀 ETC</summary>
 
  <hr>
 
@@ -59,8 +76,8 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
 
  <img src="https://3.bp.blogspot.com/-C0Vqff9M5kg/VrARw5HUSlI/AAAAAAAAXUE/tPpCuxIeneo/s1600/Omake%2BGif%2BAnime%2B-%2BKoyomimonogatari%2B-%2BEpisode%2B4%2B-%2BSenjougahara%2BYoga.gif" alt="A beautiful girl with purple hair doing yoga" loading="lazy" />
 
-![3848080 (1) (1)](https://github.com/hawariMuflihMunte/hawariMuflihMunte/assets/90821837/6c1cc0bf-2f80-427c-a8c9-bf3dedda355a)
-
+ <img src="https://github.com/hawariMuflihMunte/hawariMuflihMunte/assets/90821837/6c1cc0bf-2f80-427c-a8c9-bf3dedda355a" alt="My Waifu. Senjougahara Hitagi" width="500" />
+ 
 </details>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=BB71BE&width=620&lines=console.log('Thanks+for+visiting+my+profile');--------------------------------+%3Av;Thanks+for+visiting+my+profile;%3E_)](https://git.io/typing-svg)
