@@ -37,7 +37,7 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawariMuflihMunte&layout=compact&theme=tokyonight&border_radius=0&hide_border=true&hide_progress=true&langs_count=25)]()
 
  <details>
-  <summary>➕ Additional</summary>
+  <summary>➕ DETAILS</summary>
 
   <br>
 
@@ -48,7 +48,20 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
 </details>
 
 <details>
- <summary>👨🏼‍💻 CODES_LOGIC_TRAINING</summary>
+ <summary>🎓 SELF_STUDY</summary>
+
+ <ul>
+  <li>
+   <a href="https://hyperskill.org/">Hyperskill</a>
+  </li>
+  <li>
+   <a href="https://exercism.org/">Exercism</a>
+  </li>
+ </ul>
+</details>
+
+<details>
+ <summary>👨🏼‍💻 LOGIC_TRAINING</summary>
 
  <ul>
   <li>
@@ -69,15 +82,12 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
    <a href="https://leetcode.com/hawari_muflih/">Hackerrank</a>
   </li>
   </li>
-  <li>
-   <a href="https://exercism.org/">Exercism</a>
-  </li>
  </ul>
  
 </details>
 
 <details>
- <summary>👀 ETC</summary>
+ <summary>👀 OTHERS</summary>
 
  <hr>
 
