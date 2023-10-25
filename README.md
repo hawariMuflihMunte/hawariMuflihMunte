@@ -57,6 +57,9 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
   <li>
    <a href="https://exercism.org/">Exercism</a>
   </li>
+  <li>
+   <a href="https://www.sololearn.com/profile/17819278">Sololearn</a>
+  </li>
  </ul>
 </details>
 
