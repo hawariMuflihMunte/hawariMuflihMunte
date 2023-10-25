@@ -83,7 +83,16 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
   </li>
   </li>
  </ul>
- 
+</details>
+
+<details>
+ <summary>🛠 TOOLS</summary>
+
+ <ul>
+  <li>
+   <a href="https://mockapi.io/">mockapi.io</a>
+  </li>
+ </ul> 
 </details>
 
 <details>
