@@ -68,6 +68,9 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
 
  <ul>
   <li>
+   <a href="https://www.codingame.com/">CodinGame</a>
+  </li>
+  <li>
    <a href="https://tlx.toki.id/profiles/hawari_muflih">TLX</a>
   </li>
   <li>
