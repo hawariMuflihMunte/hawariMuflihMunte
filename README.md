@@ -58,6 +58,9 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
    <a href="https://developer.android.com/courses/jetpack-compose/course">Jetpack Compose for Android Developers</a>
   </li>
   <li>
+   <a href="https://developer.android.com/jetpack/compose/modifiers">Compose Modifiers</a>
+  </li>
+  <li>
    <a href="https://hyperskill.org/">Hyperskill</a>
   </li>
   <li>
