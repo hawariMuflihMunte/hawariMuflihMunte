@@ -117,6 +117,9 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
   <li>
    <a href="https://dbdiagram.io/">dbdiagram.io</a>
   </li>
+  <li>
+   <a href="https://app-manifest.firebaseapp.com/">Web App Manifest Generator</a>
+  </li>
  </ul> 
 </details>
 
