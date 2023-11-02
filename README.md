@@ -72,6 +72,9 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
   <li>
    <a href="https://www.sololearn.com/profile/17819278">Sololearn</a>
   </li>
+  <li>
+   <a href="https://www.openvim.com/tutorial.html">Interactive Vim Tutorial</a>
+  </li>
  </ul>
 </details>
 
