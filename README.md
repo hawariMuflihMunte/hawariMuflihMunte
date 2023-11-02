@@ -75,6 +75,9 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
   <li>
    <a href="https://www.openvim.com/tutorial.html">Interactive Vim Tutorial</a>
   </li>
+  <li>
+   <a href="https://learnvim.irian.to/">Learn Vim the Smart Way</a>
+  </li>
  </ul>
 </details>
 
