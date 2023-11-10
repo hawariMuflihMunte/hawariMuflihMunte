@@ -129,6 +129,9 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
   <li>
    <a href="https://github.com/marwin1991/profile-technology-icons">Profile Technology Icons</a>
   </li>
+  <li>
+   <a href="https://www.speedtyper.dev/">SpeedTyper</a>
+  </li>
  </ul> 
 </details>
 
