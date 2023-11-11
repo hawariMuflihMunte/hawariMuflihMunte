@@ -81,6 +81,9 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
   <li>
    <a href="https://semver.org/">Semantic Versioning 2.0.0</a>
   </li>
+  <li>
+   <a href="https://www.conventionalcommits.org/en/v1.0.0/">Conventional Commits</a>
+  </li>
  </ul>
 </details>
 
