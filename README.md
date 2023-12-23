@@ -48,7 +48,7 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
 </details>
 
 <details>
- <summary>🎓 SELF_STUDY</summary>
+ <summary>🎓 KNOWLEDGE</summary>
 
  <ul>
   <li>
@@ -89,6 +89,9 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
   </li>
   <li>
    <a href="https://www.keybr.com/">Typing Practice</a>
+  </li>
+  <li>
+   <a href="https://developer.mozilla.org/en-US/docs/Glossary">MDN Web Docs Glossary</a>
   </li>
  </ul>
 </details>
