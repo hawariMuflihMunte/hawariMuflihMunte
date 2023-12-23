@@ -144,6 +144,9 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
   <li>
    <a href="https://www.speedtyper.dev/">SpeedTyper</a>
   </li>
+  <li>
+   <a href="https://bennettfeely.com/clippy/">Clippy - CSS clip-path maker</a>
+  </li>
  </ul> 
 </details>
 
