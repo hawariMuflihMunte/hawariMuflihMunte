@@ -154,6 +154,10 @@ ser-images.githubusercontent.com/90821837/229355085-39d3a18a-dfd2-456d-b218-593e
   <li>
    <a href="https://onlineminitools.com/github-repo-size-checker">Github repository size checker</a>
   </li>
+  </li>
+  <li>
+   <a href="https://wordcounter.net">WordCounter - Count Words & Correct Writing</a>
+  </li>
  </ul> 
 </details>
 
