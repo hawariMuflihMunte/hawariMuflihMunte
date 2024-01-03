@@ -182,7 +182,10 @@
 
    <ul>
     <li>
-     Brawl Stars: <a href="https://www.brawlfind.com/player/Q90G9L9V2">hawari_muflih#Q90G9L9V2</a>
+     Brawl Stars: <a href="https://www.brawlfind.com/player/Q90G9L9V2">hawari_muflih#Q90G9L9V2</a> BrawlFind
+    </li>
+    <li>
+     Brawl Stars: <a href="https://brawlify.com/stats/profile/Q90G9L9V2">hawari_muflih#Q90G9L9V2</a> Brawlify
     </li>
     <li>
      Chess.com: <a href="https://www.chess.com/member/hawari_muflih">hawari_muflih</a>
