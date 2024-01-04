@@ -49,6 +49,9 @@
 
  <ul>
   <li>
+   <a href="https://laravel-docs.readthedocs.io/en/latest/">laravel-docs</a>
+  </li>
+  <li>
    <a href="https://developer.android.com/courses/android-basics-compose/course">Android Basics with Compose</a>
   </li>
   <li>
