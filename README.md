@@ -49,6 +49,9 @@
 
  <ul>
   <li>
+   <a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html">Data Structure Visualizatoin</a>
+  </li>
+  <li>
    <a href="https://laravel-docs.readthedocs.io/en/latest/">laravel-docs</a>
   </li>
   <li>
