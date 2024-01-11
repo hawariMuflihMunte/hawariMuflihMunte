@@ -137,6 +137,9 @@
 
  <ul>
   <li>
+   <a href="https://jsoncrack.com">JSON Crack</a>
+  </li>
+  <li>
    <a href="https://transform.tools">Transform Tools</a>
   </li>
   <li>
