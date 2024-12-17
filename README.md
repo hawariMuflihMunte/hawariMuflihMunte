@@ -3,6 +3,11 @@
 [![wakatime](https://wakatime.com/badge/user/9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b.svg)](https://wakatime.com/@9080e4a2-4bfc-4500-b7b1-082b2c6c5a6b) ![](https://komarev.com/ghpvc/?username=hawariMuflihMunte&style=flat&color=blueviolet) [![committers.top badge](https://user-badge.committers.top/indonesia/hawariMuflihMunte.svg)](https://user-badge.committers.top/indonesia/hawariMuflihMunte)
 [![LeetCode user hawari_muflih](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fhawari_muflih&logo=leetcode&logoColor=yellow)](https://leetcode.com/hawari_muflih/)
 
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hawari.muflih.munte)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hawari)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hawari-muflih-munte-95a813242/)
+
 <br>
 <br>
 
